@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+  }
+  .encabezadoB {
+    display: flex;
+    background-color: #5b493c;
+    color: white;
+    height: 8rem;        
+    align-items: center;
+    justify-content: center;
+  }
+  .encabezado {
+    background-color: #5b493c;
+    color: white;
+  }
+  .mainContent {
+    display: flex;
+    background-color: #f2f2f2;
+    height: 9rem;
+    align-items: center;
+    justify-content: center;
+  }
+  .mainContentC {
+    display: flex;
+    background-color: white;
+    height: 8rem;
+    align-items: center;
+    justify-content: center;
+  }
+  .left {
+    background-color: #f99a3e;
+    display: flex;
+    justify-content: center;
+  }
+  .top {
+    background-color: #c39182;
+  }
+  .photoA {
+    background-color: #c5697a;
+  }
+  .photoB {
+    background-color: #00a2b6;
+  }
